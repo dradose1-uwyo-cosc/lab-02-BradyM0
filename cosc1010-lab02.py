@@ -1,8 +1,8 @@
-# Your Name Here
+# Brady Mogen
 # UWYO COSC 1010
-# Submission Date
+# 09/18/24
 # Lab 02 
-# Lab Section: 
+# Lab Section: 15
 # Sources, people worked with, help given to: 
 # your
 # comments
