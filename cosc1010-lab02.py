@@ -34,12 +34,12 @@ print(f"The {message} was founded in {x}")
     # Create two variables x and y and assign them the values 5 and 10 respectively 
     # Complete the following print statements using your variables
     #All math must be done within the braces in the f-strings
-x = "5"
-y = "10"
+x = 5
+y = 10
 print(f"x + y = {x + y}")
 print(f"x - y = {x - y}")
-print(f"x * y = {your_variable_here}")
-print(f"x / y = {your_variable_here}")
+print(f"x * y = {x * y}")
+print(f"x / y = {x / y}")
 
 # String concatenation 
     # Finally we will take a look at string concatenation
@@ -50,3 +50,7 @@ print(f"x / y = {your_variable_here}")
         # last_name, which is your last name
         # space, which is a space character 
     # Use string concatenation to print out your full name 
+first_name = "Brady"
+last_name = "Mogen"
+space = " "
+print(first_name + space + last_name)
